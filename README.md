@@ -14,6 +14,6 @@ Download [GeoPDF](rrg.pdf)
 
 ![3D map of Chimney Top Rock](images/ChimneyTopVideo.jpg)
 
-[Link to video](https://youtu.be/PX9OaK-omJ0)
+[Link to video](https://youtu.be/X4HqPzGD7No)
 
 Web page at: [https://boydx.github.io/rrg/](https://boydx.github.io/rrg/)

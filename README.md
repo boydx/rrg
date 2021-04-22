@@ -17,3 +17,9 @@ Download [GeoPDF](rrg.pdf)
 [Link to video](https://youtu.be/X4HqPzGD7No)
 
 Web page at: [https://boydx.github.io/rrg/](https://boydx.github.io/rrg/)
+
+## Interactive Map
+
+![Potree point cloud render](images/potree.jpg)
+
+[Link to Potree point cloud render](potree)
